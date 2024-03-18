@@ -1,0 +1,98 @@
+*{
+	margin: 0px;
+	border : border-box;
+	font-family: Arial;
+}
+.head-box
+{
+	border : 0px solid red;
+	height : 60px;
+	background-image: url("images.jpg");
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+.Button-box
+{
+	border : 2px solid blue;
+	overflow: visible;
+	width: 80px;
+	height: 30px;
+	padding: 10px;
+	background-image: url("images2.jpg");
+	background-size: cover;
+	border-radius: 20px;
+	box-shadow: 5px 3px black;
+    display : flex;
+	justify-content: center;
+	align-items: center;
+}
+.border
+{
+	border: 2px solid white;
+}
+.border:hover{
+	border: 2px solid blue;
+}
+.border2
+{
+	border: 2px solid white;
+}
+.border2:hover{
+	border: 2px solid pink;
+}
+.border3
+{
+	border: 2px solid white;
+}
+.border3:hover{
+	border: 2px solid #ffff4d;
+}
+.border4
+{
+	border: 2px solid white;
+}
+.border4:hover{
+	border: 2px solid  #66ff66;
+}
+.border5
+{
+	border: 2px solid white;
+}
+.border5:hover{
+	border: 2px solid #FF0000;
+}
+.border6
+{
+	border: 2px solid white;
+}
+.border6:hover{
+	border: 2px solid #2E8B57;
+}
+.border7
+{
+	border: 2px solid white;
+}
+.border7:hover{
+	border: 2px solid #8FBC8F;
+}
+.border8
+{
+	border: 2px solid white;
+}
+.border8:hover{
+	border: 2px solid #99ffff;
+}
+.border9
+{
+	border: 2px solid white;
+}
+.border9:hover{
+	border: 2px solid #99994d;
+}
+.all-button
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}

@@ -1,0 +1,64 @@
+
+*{
+	margin: 0px;
+	border : border-box;
+	font-family: Arial;
+}
+.table
+{
+	border : 2px solid #ffff4d;
+	overflow: auto;
+	width: 200px;
+	height: 200px;
+	margin-left: 500px;
+	margin-top: 100px;
+	padding: 50px;
+    background-color: #f5f7fa;
+	background-size: cover;
+	border-radius: 20px;
+	box-shadow: 10px 7px black;
+
+}
+.border
+{
+	border: 2px solid white;
+}
+.border:hover{
+	border: 1.5px solid green;
+}
+.input-box
+{
+	margin: 10px;
+	padding: 10px;
+	font-size:15px;
+}
+.input-box:hover{
+	border: 2px solid lightyellow;
+}
+h3
+{
+	color: #07ed44;
+}
+.label
+{
+	color: #07ed44;
+}
+.label5
+{
+	color: #07ed44;
+	font-size : 20px;
+}
+.vote-box
+{
+	color: #07ed44;
+}
+.input-box1
+{
+	margin: 5px;
+	padding:5px;
+	font-size:15px;
+	display: flex;
+	width: 50px;
+	height: 30px;
+}
+	
